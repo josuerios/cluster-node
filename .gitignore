@@ -1,0 +1,5 @@
+.idea/
+node_modules
+data-sets/dataset-lg.csv
+solution.csv
+combos.csv
